@@ -13,7 +13,7 @@
   - first create a queue and name DLQ QUEUE this will be used to clear the primary queue
   - then I created a second Queue named OrderQueue using standerd settings and a visiability timout of 30 seconds
   - add the DLQ queue to the OrderQueue
-![Alt text](Screenshot 2025-05-09 123820)
+![Alt text](Screenshot 2025-05-09 123820.png).
 
 
 
